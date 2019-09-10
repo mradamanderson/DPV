@@ -1,0 +1,53 @@
+body {padding:0; margin:0; color:#000000; background:url(images/bg.gif) repeat-x bottom #000000}
+body, td {
+	font-family:Tahoma;
+	font-size:18px;
+}
+br{font-size:10px}
+
+.header{color:#1A5583; font-size:11px; line-height:13px} 
+.header a{color:#1A5583; text-decoration:underline} 
+.header a:hover{text-decoration:none} 
+
+.content td{color:#999999; font-size:11px; line-height:13px} 
+.content b{color:#8AB01E} 
+.content b a{color:#8AB01E; text-decoration:none} 
+.content b a:hover{text-decoration:underline}
+.content a{color:#F4BF21; text-decoration:underline} 
+.content a:hover{text-decoration:none}
+.content ul{margin:0; padding:0; list-style:none; line-height:18px}
+.content li{background:url(images/1_z1.gif)  center left no-repeat; margin:0px 0px 0px 0px; padding:0px 0px 0px 10px } 
+
+.content .block{color:#999999; font-size:10px; line-height:13px}
+.content .block a{color:#F4BF21; font-size:11px; text-decoration:underline} 
+.content .block a:hover{text-decoration:none} 
+
+.content .block1 b a{color:#F4BF21; text-decoration:none} 
+.content .block1 b a:hover{text-decoration:underline}
+
+.content .block2 ul{margin:0; padding:0; list-style:none; line-height:18px}
+.content .block2 li{background:url(images/1_z2.gif)  center left no-repeat; margin:0px 0px 0px 0px; padding:0px 0px 0px 12px }
+
+.footer{color:#FFFFFF; font-size:9px; line-height:13px} 
+.footer a{color:#FFFFFF; font-size:9px; text-decoration:none} 
+.footer a:hover{text-decoration:underline} 
+ 
+.footer1 a{color:#FFFFFF; font-size:11px; text-decoration:none} 
+.footer1 a:hover{text-decoration:underline} 
+
+input,textarea{
+   background:#3D3D3D;
+   border:none;
+   font-family:Tahoma;
+   color:#FFFFFF; 
+   font-size:10px;
+   padding-left:5px
+} 
+ 
+
+
+
+
+
+
+ 
